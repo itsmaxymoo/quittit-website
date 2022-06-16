@@ -12,8 +12,6 @@ github_url: https://github.com/itsmaxymoo/quittit
 personal_site_url: https://itsmaxymoo.com
 
 # Build settings
-plugins:
-  - jekyll-seo-tag
 timezone: America/New_York
 markdown: kramdown
 sass:

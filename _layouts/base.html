@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html lang="en">
+	<head>
+		<!-- Meta -->
+		<title>{{ site.title }}</title>
+		<meta charset="utf-8">
+		<meta content="width=device-width, initial-scale=1" name="viewport">
+		<meta name="generator" content="Jekyll">
+		<meta name="description" content="{{ site.description }}">
+		<link rel="canonical" href="{{ site.url }}{{ page.url | remove: '/index.html' | remove: '.html' }}" />
+
+		<!-- CSS -->
+		<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.classless.min.css">
+	</head>
+
+	<body>
+		<main>
+			{{ content }}
+		</main>
+		<footer>
+			Footer content
+		</footer>
+	</body>
+</html>
