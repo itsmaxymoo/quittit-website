@@ -22,28 +22,10 @@
 		<meta name="theme-color" content="#ffffff">
 
 		<!-- CSS -->
-		<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+		<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/style.css">
 	</head>
 
 	<body>
-		<main class="container">
-			<hgroup>
-				<h1>{{ site.title }}</h1>
-				<h2>Here's what you could be doing instead...</h2>
-			</hgroup>
-
-			{{ content }}
-		</main>
-		<footer class="container">
-			<div class="container">
-				The items on this page are recommendations. <strong>None</strong> are sponsors.
-			</div>
-
-			<div class="container">
-				This site is under an <a href="https://github.com/itsmaxymoo/quittit/blob/main/LICENSE">MIT License</a>
-				&#8226;
-				Edit this page <a href="https://github.com/itsmaxymoo/quittit">on GitHub</a>
-			</div>
-		</footer>
+		{{ content }}
 	</body>
 </html>

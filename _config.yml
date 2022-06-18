@@ -1,7 +1,7 @@
 # Site vars
 title: quittit!
 email: max.loiacono@protonmail.com
-description: Resources to aide in quitting reddit
+description: Resources to aide in quitting reddit, and other addicting sites
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: main
 ---
 
 How much time do you have right now?
