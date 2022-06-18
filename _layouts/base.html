@@ -22,14 +22,19 @@
 		<meta name="theme-color" content="#ffffff">
 
 		<!-- CSS -->
-		<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.classless.min.css">
+		<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
 	</head>
 
 	<body>
-		<main>
+		<main class="container">
+			<hgroup>
+				<h1>{{ site.title }}</h1>
+				<h2>Here's what you could be doing instead...</h2>
+			</hgroup>
+
 			{{ content }}
 		</main>
-		<footer>
+		<footer class="container">
 			<div class="container">
 				The items on this page are recommendations. <strong>None</strong> are sponsors.
 			</div>

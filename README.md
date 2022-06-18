@@ -12,4 +12,5 @@ Additionally, resources should remain as platform-agnostic
 as possible. quittit can be used to quit sites other than reddit!
 
 Sections should remain relatively small and easy to understand.
-Style and structure can be modified in `_layouts/base.html`.
+Style and structure can be modified in the other various HTML files.
+Javascript should be avoided.
