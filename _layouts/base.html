@@ -31,7 +31,19 @@
 		<footer class="footer">
 			<section class="section">
 				<div class="container has-text-centered">
-					Foot
+					<p>
+						This site is open source. Edit this site on
+						<a href="{{ site.github_url }}">GitHub</a>.
+
+						<br />
+
+						This page is under an
+						<a href="{{ site.github_url }}/blob/main/LICENSE">MIT License</a>.
+					</p>
+
+					<p>
+						Site last updated on {{ site.time | date_to_long_string }}
+					</p>
 				</div>
 			</section>
 		</footer>
