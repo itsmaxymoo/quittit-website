@@ -8,7 +8,23 @@ How much time do you have right now?
 {% include button.html url="#instead-of-a-long-session" text="Some time. I have nothing better to do!" %}
 {% include button.html url="#starting-and-ending-your-day" text="I am starting or ending my day" %}
 
+---
+
 ## For the Short Term
+
+* Catch up on the [news](https://apnews.com) 📰
+* Practice a new language on [Duolingo](https://duolingo.com) 🇩🇪🇫🇷🇪🇸
+* Draw something ✍️
+* Write something!
+* Practice mindfulness! It's okay to be bored!
+Make observations about the world around you.
+What are your feelings on that?
+
+> The more we try to live in the world of words, the more we feel isolated and alone, the more all the joy and liveliness of things is exchanged for mere certainty and security. On the other hand, the more we are forced to admit that we actually live in the real world, the more we feel ignorant, uncertain, and insecure about everything.
+
+*- Alan Watts*
+
+---
 
 ## Instead of a Long Session
 
