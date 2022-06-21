@@ -13,6 +13,7 @@ How much time do you have right now?
 ## For the Short Term
 
 * Catch up on the [news](https://apnews.com) 📰
+* Read a [random Wikipedia article](https://en.wikipedia.org/wiki/Special:Random)...
 * Practice a new language on [Duolingo](https://duolingo.com) 🇩🇪🇫🇷🇪🇸
 * Draw something ✍️
 * Write something!
