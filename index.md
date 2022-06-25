@@ -29,38 +29,41 @@ What are your feelings on that?
 
 ## Instead of a Long Session
 
-## Starting and Ending Your Day
+### Go Outside 🌳🌲🌵
 
----
+* Go for a walk, run, or bicycle ride!
+* Plan a hike with [AllTrails](https://www.alltrails.com/) 🌄
+* Compete with locals on [Strava](https://www.strava.com/) 🏃🚲
+* Go on a real life treasure hunt and [geocache](https://www.geocaching.com/play)!
 
-## More Things to Do
+### Try Reading 📖
 
-### News &#128240;
-
-* [AP News](https://apnews.com) - Reliable US and international news source
-* [BBC](https://bbc.com) - National news organization from the United Kingdom
-* [Al Jazeera](https://aljazeera.com) - International news from Qatar
-
-### Learn Something &#129299;
-
-* Learn a new language with [Duolingo](https://duolingo.com)!
-* Read a [random Wikipedia article](https://en.wikipedia.org/wiki/Special:Random)...
-* Learn to code at [Codeacademy](https://www.codecademy.com/)
-
-### Try Reading &#128214;
-
-* Get some cheap, used books at [AbeBooks](https://abebooks.com)
+* Get some cheap, used books at [AbeBooks](https://abebooks.com), your local bookstore, or a yard sale
 * Track your reading with [Goodreads](https://goodreads.com), and get recommendations!
 
-##### Some good books to get you started:
+Some good books to get you started:
 
 * *The Wisdom of Insecurity* by Alan Watts
+* *The Autobiography of Malcolm X* by Malcolm X
+* *The Girl with the Dragon Tattoo* by Stieg Larsson
 * *Roadside Picnic* by Arkady and Boris Strugatsky
 * *The Hunger Games* by Suzanne Collins
 
-### Go Outside &#128693;
+It is helpful to always have a book on you, or have an ebook on your phone.
+I find that the best types of books for phone reading are those that can be
+read in short bursts, while remaining memorable.
+Try *Gangster Redemption* by Larry Lawton or *Girl, Interrupted* by Susanna Kaysen.
 
-* Go for a walk!
-* Plan a hike with [AllTrails](https://www.alltrails.com/)
-* Compete with locals on [Strava](https://www.strava.com/)
-* Go on a real life treasure hunt and [geocache](https://www.geocaching.com/play)!
+### Code Something 💻
+
+* Never wrote code before? Start with a website. You can even view the
+source code of this site [here]({{ site.github_url }})!
+* Automate something tedious you'd rather not do
+* Interact with some old hardware
+* Perhaps remake an arcade game?
+
+---
+
+## Starting and Ending Your Day
+
+---
