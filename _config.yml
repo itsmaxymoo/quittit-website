@@ -11,6 +11,15 @@ author_full: Max Loiacono
 github_url: https://github.com/itsmaxymoo/quittit
 personal_site_url: https://itsmaxymoo.com
 
+# Defaults
+defaults:
+  # Post defaults
+  -
+    scope:
+      path: ""
+    values:
+      layout: main
+
 # Build settings
 timezone: America/New_York
 markdown: kramdown
