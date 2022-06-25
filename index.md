@@ -2,10 +2,10 @@
 # Do not remove this line ±1
 ---
 
-How much time do you have right now?
+<p class="time-question-text">How much time do you have right now?</p>
 
-{% include button.html url="#for-the-short-term" text="Not a lot; on break at work or looking to kill time" %}
-{% include button.html url="#instead-of-a-long-session" text="Some time. I have nothing better to do!" %}
+{% include button.html url="#for-the-short-term" text="A few minutes" %}
+{% include button.html url="#instead-of-a-long-session" text="A little more time" %}
 {% include button.html url="#starting-and-ending-your-day" text="I am starting or ending my day" %}
 
 ---
