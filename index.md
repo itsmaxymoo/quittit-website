@@ -66,4 +66,11 @@ source code of this site [here]({{ site.github_url }})!
 
 ## Starting and Ending Your Day
 
+These suggestions don't particularly require a lot of brain power...
+
+* Read a mindless book, like the [H2G2 series](https://en.m.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy#Novels)
+* Work on a [big puzzle](https://www.whitemountainpuzzles.com/) 🧩
+* Journal your thoughts for the day 🤔
+* Start a dream journal! Practice [lucid dreaming](https://www.sleepfoundation.org/dreams/lucid-dreams) 😴
+
 ---
