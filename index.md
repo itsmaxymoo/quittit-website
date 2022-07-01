@@ -13,6 +13,7 @@
 ## For the Short Term
 
 * Catch up on the [news](https://apnews.com) 📰
+* **Do some chores**
 * Read a [random Wikipedia article](https://en.wikipedia.org/wiki/Special:Random)...
 * Practice a new language on [Duolingo](https://duolingo.com) 🇩🇪🇫🇷🇪🇸
 * Draw something ✍️
