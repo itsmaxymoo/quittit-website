@@ -80,3 +80,11 @@ These suggestions don't particularly require a lot of brain power...
 
 Visit this site whenever you feel the urge to browse reddit, and try some of the alternatives listed!
 Optimally, install a browser extension to automatically redirect reddit to `{{ site.hard_url }}`!
+
+---
+
+<p class="has-text-centered">
+	<a href="{{ site.github_url }}/edit/main/index.md">
+		<img src="https://badgen.net/badge/icon/edit%20this%20page?icon=github&label=&scale=1.5" alt="Edit this page..."/>
+	</a>
+</p>
