@@ -4,7 +4,7 @@ email: max.loiacono@protonmail.com
 description: Resources to aide in quitting reddit, and other addicting sites
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+hard_url: "quittit.itsmaxymoo.com"
 
 author:  itsmaxymoo
 author_full: Max Loiacono

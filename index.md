@@ -75,3 +75,8 @@ These suggestions don't particularly require a lot of brain power...
 * Start a dream journal! Practice [lucid dreaming](https://www.sleepfoundation.org/dreams/lucid-dreams) 😴
 
 ---
+
+## How it Works
+
+Visit this site whenever you feel the urge to browse reddit, and try some of the alternatives listed!
+Optimally, install a browser extension to automatically redirect reddit to `{{ site.hard_url }}`!
