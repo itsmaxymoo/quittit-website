@@ -1,39 +1,60 @@
-/* Max's Dark Bulma Theme, version 0.1, MIT License */
+/* Max's Dark Bulma Theme, version 0.2, MIT License */
+
+/*
+ * Color palette
+ */
+$mdb-background: #121212
+$mdb-background-secondary: #000
+$mdb-background-tertiary: #242424
+
+$mdb-accent: #db6617
+$mdb-accent-darker: darken($mdb-accent, 10%)
+$mdb-accent-blood: #d6130c
+$mdb-accent-blood-darker: darken($mdb-accent-blood, 10%)
+$mdb-accent-secondary: #3ed8ff
+
+$mdb-text: #dbdbdb
+$mdb-text-strong: #f3f3f3
+
+$mdb-code-background: #080b25
+
+/*
+ * Style rules
+ */
 
 // Disable rounding
 $control-radius: 0
 	
 // Main background colors
-$body-background-color: $black-bis
-$footer-background-color: $black
+$body-background-color: $mdb-background
+$footer-background-color: $mdb-background-secondary
 
 // Text colors
-$text: $grey-light
-$text-strong: $grey-lighter
+$text: $mdb-text
+$text-strong: $mdb-text-strong
 
 // Links
-$link: $orange
-$link-hover: darken($orange, 15%)
-$link-clicked: $orange
+$link: $mdb-accent
+$link-hover: $mdb-accent-darker
+$link-clicked: $mdb-accent
 
 // Code blocks
-$code: lighten($grey-light, 10%)
-$code-background: #080b25
+$code: $mdb-text
+$code-background: $mdb-code-background
 
 // Blockquotes
-$color-blockquote-left-bar: #b81111
-$content-blockquote-background-color: $black
-$content-blockquote-border-left: 5px solid $color-blockquote-left-bar
+$content-blockquote-background-color: $mdb-background-tertiary
+$content-blockquote-border-left: 5px solid $mdb-accent-blood-darker
 
 // Buttons
-$button-background-color: darken($orange, 10%)
-$button-border-color: darken($orange, 20%)
-$button-hover-color: $white
+$button-background-color: $mdb-accent-blood
+$button-border-color: $mdb-accent-blood-darker
+$button-hover-color: $mdb-text-strong
 $button-hover-border-color: $button-border-color
-$button-focus-color: $white
-$button-focus-border-color: darken($orange, 20%)
-$button-text-color: $white
-$button-active-color: $text-strong
+$button-focus-color: $mdb-text-strong
+$button-focus-border-color: $mdb-accent-blood-darker
+$button-text-color: $mdb-text-strong
+$button-active-color: $mdb-text-strong
 
 // Other element colors
-$hr-background-color: $black-ter
+$hr-background-color: $mdb-background-tertiary
