@@ -18,7 +18,7 @@ defaults:
     scope:
       path: ""
     values:
-      layout: main
+      layout: base
 
 # Build settings
 timezone: America/New_York
