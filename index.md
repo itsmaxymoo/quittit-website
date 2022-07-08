@@ -78,8 +78,12 @@ These suggestions don't particularly require a lot of brain power...
 
 ## How it Works
 
-Visit this site whenever you feel the urge to browse reddit, and try some of the alternatives listed!
-Optimally, install a browser extension to automatically redirect reddit to `{{ site.hard_url }}`!
+Install the official [quittit! Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/quittit)
+to enforce the use of this website. It allows you to block whatever websites you want!
+*Chrome version coming eventually...*
+
+If you don't use Firefox, you can try another redirection extension or simply
+**visit this site whenever you feel the urge to browse!**
 
 ---
 
